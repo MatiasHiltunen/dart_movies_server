@@ -1,6 +1,9 @@
 # Dart gRPC server example
 
-This is a gRPC server example for Cross-Platform Mobile Application Development course.
+_This is a gRPC server example for Cross-Platform Mobile Application Development course._
+
+Flutter application for this example can be found here: https://github.com/MatiasHiltunen/flutter_example_grpc
+
 
 ## Protos
 
